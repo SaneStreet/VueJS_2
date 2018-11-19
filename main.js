@@ -33,7 +33,7 @@ var app = new Vue({
   var app5 = new Vue({
     el: '#app-5',
     data: {
-      message: 'Hello Vue.js!'
+      message: 'Tryk for at bruge funktionen reverseMessage!'
     },
     methods: {
       reverseMessage: function () {
